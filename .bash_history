@@ -4,3 +4,5 @@ exit
 clear
 su
 sudo su
+clear
+sudo su
